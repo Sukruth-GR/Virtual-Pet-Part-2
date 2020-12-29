@@ -73,7 +73,7 @@ food=new Food()
     input.hide()
     button .hide()
     name = input.value();
-    greeting.html("Hello I am your pet dog "+name+"🐶")
+    greeting.html("Hello I am your pet dog ' "+name+" ' 🐶")
    greeting .position(500,100)
 
    greeting2.html("please feed me food")
